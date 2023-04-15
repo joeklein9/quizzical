@@ -24,14 +24,14 @@ body {
   right: 20px;
   width: 70px;
   height: 70px;
-  background-color: #fff;
   border: none;
+  background-color: none;
   cursor: pointer;
   display: flex;
   justify-content: center;
   align-items: center;
   transition: background-color 0.5s ease, color 0.5s ease;
-  background-image: url('toggle-right.png');
+  background-image: url('sun-moon.png');
   background-size: contain;
   background-position-y: center;
 }
